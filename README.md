@@ -1,5 +1,6 @@
-![title](https://github.com/user-attachments/assets/56983407-c9eb-4825-bee3-14b4e552b880)
-![game](https://github.com/user-attachments/assets/85756ab4-dd86-40de-94b5-83e0a32f56d6)
+<img src="https://github.com/user-attachments/assets/56983407-c9eb-4825-bee3-14b4e552b880" width="auto" height="300">
+-
+<img src="https://github.com/user-attachments/assets/85756ab4-dd86-40de-94b5-83e0a32f56d6" width="auto" height="300">
 
 # Chicken Run
 
